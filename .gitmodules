@@ -1,0 +1,15 @@
+[submodule "zed-ros-wrapper"]
+	path = zed-ros-wrapper
+	url = https://github.com/stereolabs/zed-ros-wrapper.git
+[submodule "vesc"]
+	path = vesc
+	url = https://github.com/mit-racecar/vesc.git
+[submodule "razor_imu_m0_driver"]
+	path = razor_imu_m0_driver
+	url = https://github.com/mit-racecar/razor_imu_m0_driver.git
+[submodule "racecar"]
+	path = racecar
+	url = https://github.com/mit-racecar/racecar.git
+[submodule "racecar-dotfiles"]
+	path = racecar-dotfiles
+	url = https://github.com/mit-racecar/racecar-dotfiles.git
